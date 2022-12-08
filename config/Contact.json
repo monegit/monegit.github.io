@@ -1,0 +1,15 @@
+{
+  "email": "communitylab.tus.@gmail.com",
+  "description": "サイエンスショー・実験教室をご依頼の方はメール本文にて、以下の項目をご記入ください",
+  "lineURL": "",
+  "instagramURL": "https://www.instagram.com/communitylab_tus",
+  "entry": [
+    "代表者氏名",
+    "イベント名称",
+    "開催日時",
+    "実施場所",
+    "参加予定人数",
+    "ご予算",
+    "その他ご要望"
+  ]
+}
