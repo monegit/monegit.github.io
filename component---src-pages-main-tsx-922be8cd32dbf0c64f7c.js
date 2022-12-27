@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[221],{3509:function(e,t,l){l.r(t);var n=l(7294),u=l(7500);t.default=function(){return n.createElement("div",{className:"flex"},n.createElement(u.default,null))}}}]);
+//# sourceMappingURL=component---src-pages-main-tsx-922be8cd32dbf0c64f7c.js.map

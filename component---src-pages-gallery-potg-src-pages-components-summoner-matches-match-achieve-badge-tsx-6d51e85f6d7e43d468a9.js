@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[909],{5943:function(t,e,l){l.r(e);var r=l(7294);e.default=function(t){let{title:e}=t;return r.createElement("div",{className:"px-2 py-1 bg-slate-700 rounded-2xl text-[10px] w-fit text-gray-300"},e)}}}]);
+//# sourceMappingURL=component---src-pages-gallery-potg-src-pages-components-summoner-matches-match-achieve-badge-tsx-6d51e85f6d7e43d468a9.js.map

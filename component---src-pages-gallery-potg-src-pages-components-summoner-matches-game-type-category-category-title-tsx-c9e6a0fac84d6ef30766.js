@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[752],{8816:function(e,t,r){r.r(t);var o=r(7294);t.default=function(e){return o.createElement("div",{className:"cursor-pointer px-4 py-3"},e.title)}}}]);
+//# sourceMappingURL=component---src-pages-gallery-potg-src-pages-components-summoner-matches-game-type-category-category-title-tsx-c9e6a0fac84d6ef30766.js.map

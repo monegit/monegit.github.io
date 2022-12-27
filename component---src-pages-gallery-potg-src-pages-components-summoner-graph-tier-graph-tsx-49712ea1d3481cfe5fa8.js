@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[259],{2689:function(e,t,l){l.r(t);var a=l(7294);t.default=function(){return a.createElement("div",{className:"flex flex-col bg-white w-[300px] overflow-hidden rounded-xl"},a.createElement("div",{className:"flex items-center h-[30px] bg-[#f0f0f0]"},a.createElement("div",{className:"ml-[10px] text-xs text-[#a7a7a7]"},"티어 그래프")))}}}]);
+//# sourceMappingURL=component---src-pages-gallery-potg-src-pages-components-summoner-graph-tier-graph-tsx-49712ea1d3481cfe5fa8.js.map

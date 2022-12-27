@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[37],{9976:function(e,l,u){u.r(l);var a=u(7294);l.default=function(e){return a.createElement("div",{className:"w-full bg-gray-300 rounded-full h-2"},a.createElement("div",{className:(e.color?e.color:"bg-red-500")+" h-2 rounded-full",style:{width:e.value<10?0===e.value?e.value:8:e.value+"%"}}))}}}]);
+//# sourceMappingURL=component---src-pages-gallery-potg-src-pages-components-summoner-matches-match-detail-gaugebar-tsx-2eb00415ad962b568fb6.js.map
